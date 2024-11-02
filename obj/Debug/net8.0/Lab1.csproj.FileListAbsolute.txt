@@ -1,0 +1,14 @@
+/home/mouhamed/Documents/M2G/_.NET/Lab1/bin/Debug/net8.0/Lab1
+/home/mouhamed/Documents/M2G/_.NET/Lab1/bin/Debug/net8.0/Lab1.deps.json
+/home/mouhamed/Documents/M2G/_.NET/Lab1/bin/Debug/net8.0/Lab1.runtimeconfig.json
+/home/mouhamed/Documents/M2G/_.NET/Lab1/bin/Debug/net8.0/Lab1.dll
+/home/mouhamed/Documents/M2G/_.NET/Lab1/bin/Debug/net8.0/Lab1.pdb
+/home/mouhamed/Documents/M2G/_.NET/Lab1/obj/Debug/net8.0/Lab1.GeneratedMSBuildEditorConfig.editorconfig
+/home/mouhamed/Documents/M2G/_.NET/Lab1/obj/Debug/net8.0/Lab1.AssemblyInfoInputs.cache
+/home/mouhamed/Documents/M2G/_.NET/Lab1/obj/Debug/net8.0/Lab1.AssemblyInfo.cs
+/home/mouhamed/Documents/M2G/_.NET/Lab1/obj/Debug/net8.0/Lab1.csproj.CoreCompileInputs.cache
+/home/mouhamed/Documents/M2G/_.NET/Lab1/obj/Debug/net8.0/Lab1.dll
+/home/mouhamed/Documents/M2G/_.NET/Lab1/obj/Debug/net8.0/refint/Lab1.dll
+/home/mouhamed/Documents/M2G/_.NET/Lab1/obj/Debug/net8.0/Lab1.pdb
+/home/mouhamed/Documents/M2G/_.NET/Lab1/obj/Debug/net8.0/Lab1.genruntimeconfig.cache
+/home/mouhamed/Documents/M2G/_.NET/Lab1/obj/Debug/net8.0/ref/Lab1.dll
